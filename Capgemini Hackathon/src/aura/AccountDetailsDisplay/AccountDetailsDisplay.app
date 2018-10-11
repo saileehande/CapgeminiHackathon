@@ -1,5 +1,5 @@
 <aura:application extends="force:slds">
-	<c:AccountList/>
+	<c:AccountList />
     <!--<link href='/resource/bootstrap/' rel="stylesheet"/>
 	<div class="container">
         <div class="row">
